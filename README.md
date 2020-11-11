@@ -1,2 +1,2 @@
 # test
-push newz
+new NEWZ
